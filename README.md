@@ -3,7 +3,7 @@
 ## Description
 This project was built from code provided via Northwestern University's Full-stack Development Coding Bootcamp's TAs, with me rewriting code in order to ensure I understand how to properly build the app were I to attempt to do so again under less time constraints than those I am currently under.
 
-Specifically, I Node.js in conjunction with the Inquirer node package to construct an application that generates a "Professional," as defined in [this guide],(https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) README.md file based on a user's response to questions prompted via Inquirer.
+Specifically, I Node.js in conjunction with the Inquirer node package to construct an application that generates a "Professional," as defined in [this guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide), README.md file based on a user's response to questions prompted via Inquirer.
 
 A sample README I created using my own application is linked [here](TEST%20README.md).
 
